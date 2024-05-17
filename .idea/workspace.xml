@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="394d764b-c1a4-484a-82f1-ec6612801b0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automotora.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Minibus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Taxi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Tienda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Vehiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Vendedor.java" afterDir="false" />
+    <list default="true" id="394d764b-c1a4-484a-82f1-ec6612801b0e" name="Changes" comment="Project setup">
+      <change afterPath="$PROJECT_DIR$/src/clases/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excepciones/LibroVenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Francortiz-137"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Francortiz-137/automotora.git&quot;,
+    &quot;accountId&quot;: &quot;bf3132bd-7826-4323-afa8-8e2f6a0debea&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2gTlqAtJRU47TjveWJVOS1SdPzP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,8 +47,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Excepciones",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -73,11 +75,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715729638963</updated>
-      <workItem from="1715729640018" duration="2992000" />
+      <workItem from="1715729640018" duration="3787000" />
+      <workItem from="1715982151380" duration="1900000" />
     </task>
+    <task id="LOCAL-00001" summary="Project setup">
+      <option name="closed" value="true" />
+      <created>1715824463213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715824463213</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project setup" />
   </component>
 </project>
